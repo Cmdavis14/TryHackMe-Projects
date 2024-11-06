@@ -4,7 +4,7 @@ Welcome to my TryHackMe exercises repository! Here, I’ve documented my progres
 
 ## Completed Modules
 
-### 1. [Servidae: Log Analysis in ELK]([Servidae_Log_Analysis_ELK/README.md](https://github.com/Cmdavis14/TryHackMe-Projects/blob/main/Servidae_Log_Analysis_ELK/ReadME.md))
+### 1. [Servidae: Log Analysis in ELK](Servidae_Log_Analysis_ELK/ReadME.md)
    - **Objective**: Perform log analysis using the Elastic Stack (ELK) to identify potential security threats.
    - **Skills Gained**: Log ingestion and parsing, Kibana visualizations, alert creation, and threat detection.
    - **Tools Used**: Elasticsearch, Logstash, Kibana (ELK Stack)
