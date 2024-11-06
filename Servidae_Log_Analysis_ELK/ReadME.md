@@ -22,11 +22,6 @@ To use ELK (Elastic Stack) to analyze logs for potential security threats, pract
 3. **Setting Alerts**: Configured alerts based on log patterns to simulate a real-world threat detection scenario.
 4. **Building Dashboards**: Designed visual dashboards in Kibana to monitor log data effectively and quickly spot issues.
 
-## Screenshots
-*Add screenshots to show your work, if possible.*
-- **Dashboard Example**: ![Dashboard Example](path/to/screenshot1.png)
-- **Logstash Pipeline**: ![Logstash Pipeline](path/to/screenshot2.png)
-
 ## Reflection
 Completing this module enhanced my ability to perform log analysis and threat detection using the ELK stack. The hands-on approach deepened my understanding of ELK’s capabilities in security monitoring, particularly in visualizing and proactively managing log data.
 
